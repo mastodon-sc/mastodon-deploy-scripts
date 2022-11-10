@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<properties>
+		<mastodon.group>org.mastodon</mastodon.group>
+		<mastodon-collection.version>1.0.0-beta-24</mastodon-collection.version>
+		<mastodon-graph.version>1.0.0-beta-23</mastodon-graph.version>
+		<mastodon.version>1.0.0-beta-26</mastodon.version>
+		<mastodon-ellipsoid-fitting.version>0.3.3</mastodon-ellipsoid-fitting.version>
+		<mastodon-tracking.version>1.0.0-beta-13</mastodon-tracking.version>
+		<mastodon-selection-creator.version>0.0.6</mastodon-selection-creator.version>
+		<mastodon-pasteur.version>1.0.0-beta-6</mastodon-pasteur.version>
+		<mastodon-tomancak.version>0.3.1</mastodon-tomancak.version>
+		<mastodon-app.version>1.0.0-beta-20</mastodon-app.version>
+	</properties>
+	
+</project>
